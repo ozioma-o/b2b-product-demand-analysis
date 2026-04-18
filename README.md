@@ -7,7 +7,13 @@ using Power Pivot, DAX measures, and an interactive dashboard covering
 2018-2019 order data.
 
 ---
+Data Integrity & Logical Validation
 
+Anomaly Detection: Identified a 549% variance in October demand (2018 vs. 2019), flagging it as a non-seasonal anomaly requiring further investigation.
+Systemic Bias Identification: Detected a potential discrepancy in the Time column, concluding that the data likely represented system processing times rather than customer behavior, preventing a false "automated procurement" insight.
+Information Nuance: Synthesised technical DAX findings into a non-technical Executive Intelligence Brief, ensuring complex data was communicated with accuracy and stylistic clarity.
+
+---
 ## Business Context
 
 A B2B software company that sells productivity tools and business intelligence 
